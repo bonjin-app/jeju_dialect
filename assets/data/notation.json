@@ -1,0 +1,489 @@
+{
+  "data": [
+    {
+      "title": "제1장 총칙",
+      "item": [
+        {
+          "subTitle": "제1항 목적",
+          "subItem": [
+            {
+              "type": "subject",
+              "value": "제주어 표기법(이하 ‘이 표기법’)의 목적은 한글 맞춤법의 취지에 따라 제주 사람들이 쓰는 말의 표기 방법을 정하는 데 있다."
+            }
+          ]
+        },
+        {
+          "subTitle": "제2항 원리 및 방법",
+          "subItem": [
+            {
+              "type": "subject",
+              "value": "이 표기법은 형태소의 본디 꼴(원형)을 밝혀 적는 경우와 바뀐 꼴(변이형)을 적는 경우를 구별한다."
+            },
+            {
+              "type": "subject",
+              "value": "표기가 이미 굳어진 것은 그대로 허용한다."
+            }
+          ]
+        },
+        {
+          "subTitle": "제3항 범 위",
+          "subItem": [
+            {
+              "type": "subject",
+              "value": "이 표기법에서는 통합성과 포괄성을 기준으로 삼아서 제주어를 적는다."
+            }
+          ]
+        },
+        {
+          "subTitle": "제4항 자 모",
+          "subItem": [
+            {
+              "type": "subject",
+              "value": "이 표기법에서는 제주어의 음소와 아래의 자모들이 일치하도록 하여 제주어를 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/01.png"
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/02.png"
+            },
+            {
+              "type": "subject",
+              "value": "다만, ‘ㅇ’은 모음으로 시작하는 음절의 초성 글자로도 쓰고, ‘ㅚ, ㅢ’는 한자 형태소를 적을 때만 쓴다."
+            }
+          ]
+        },
+        {
+          "subTitle": "제5항 합 자",
+          "subItem": [
+            {
+              "type": "subject",
+              "value": "자음은 초성 글자와 받침 글자로 적고, 모음은 중성 글자로 적는다."
+            },
+            {
+              "type": "subject",
+              "value": "제주어는 초성 글자와 중성 글자, 받침 글자를 모아서 적는다."
+            },
+            {
+              "type": "subject",
+              "value": "[붙임] 필요한 경우 자모의 결합도 사용할 수 있다."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "제2장 본디 꼴을 적는 것",
+      "item": [
+        {
+          "subTitle": "제6항 된소리",
+          "subItem": [
+            {
+              "type": "subject",
+              "value": "하나의 형태소 안에서 나는 된소리는 ‘ㄲ, ㄸ, ㅃ, ㅆ, ㅉ’으로 적는다."
+            },
+            {
+              "type": "subject",
+              "value": "두 모음 사이에서 나는 된소리"
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/03.png"
+            },
+            {
+              "type": "subject",
+              "value": "/ㄴ, ㄹ, ㅁ, ㅇ/ 뒤에서 나는 된소리"
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/04.png"
+            },
+            {
+              "type": "subject",
+              "value": "다만, 하나의 어미 안에서 /ㄹ/ 뒤에 오는 된소리는 평음 글자로 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/04.png"
+            },
+            {
+              "type": "subject",
+              "value": "[붙임] 같은 음절이나 비슷한 음절이 겹쳐 나지 않는 /ㄱ, ㅂ/ 뒤의 된소리는 평음 글자로 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/06.png"
+            }
+          ]
+        },
+        {
+          "subTitle": "제7항 같은 음절이나 비슷한 음절",
+          "subItem": [
+            {
+              "type": "subject",
+              "value": "같은 음절이나 비슷한 음절이 겹쳐 나는 것은 같은 자모로 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/07.png"
+            }
+          ]
+        },
+        {
+          "subTitle": "제8항 속 음",
+          "subItem": [
+            {
+              "type": "subject",
+              "value": "한자 형태소의 소리가 위치와 관계없이 본음에서 바뀐 것은 바뀐 대로 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/08.png"
+            }
+          ]
+        },
+        {
+          "subTitle": "제9항 파생어",
+          "subItem": [
+            {
+              "type": "subject",
+              "value": "접사가 붙어서 이루어진 말은 다음과 같이 적는다."
+            },
+            {
+              "type": "subject",
+              "value": "접두사가 붙어서 이루어진 말은 접두사와 어근을 밝혀 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/09.png"
+            },
+            {
+              "type": "subject",
+              "value": "‘-이’나 ‘-음’ 또는 자음으로 시작하는 접미사가 붙어서 이루어진 말은 어근과 접미사를 밝히고 구별하여 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/10.png"
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/11.png"
+            },
+            {
+              "type": "subject",
+              "value": "[붙임] ‘-이’나 ‘-음’ 이외의 모음으로 시작하는 접미사가 붙어서 된 말은 어근과 접미사를 구별하여 적지 아니한다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/12.png"
+            },
+            {
+              "type": "subject",
+              "value": "다만, ‘ㄹ’로 끝나는 어근에 접미사 ‘-ㅁ’이 붙어서 파생된 말은 어근을 밝혀 적지 아니한다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/13.png"
+            }
+          ]
+        },
+        {
+          "subTitle": "제10항 체언과 조사",
+          "subItem": [
+            {
+              "type": "subject",
+              "value": "체언과 조사가 결합하여 소리가 바뀌지 않거나, 바뀌더라도 꼭 바뀔 만한 이유가 있는 것은 체언과 조사의 본디 꼴을 적되 체언과 조사를 구별하여 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/14.png"
+            }
+          ]
+        },
+        {
+          "subTitle": "제11항 어간과 어미",
+          "subItem": [
+            {
+              "type": "subject",
+              "value": "어간과 어미가 결합하여 소리가 바뀌지 않거나, 소리가 바뀌더라도 꼭 바뀔 만한 이유가 있는 것은 어간과 어미를 구별하여 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/15.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "제3장 바뀐 꼴을 적는 것",
+      "item": [
+        {
+          "subTitle": "제12항 두음법칙",
+          "subItem": [
+            {
+              "type": "subject",
+              "value": "한자 형태소가 단어의 첫머리에 와서 본디 소리와 다르게 발음되는 것은 발음되는 대로 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/16.png"
+            },
+            {
+              "type": "subject",
+              "value": "[붙임] 모음과 /ㄴ/ 뒤에 오는 ‘렬, 률’은 ‘열, 율’로 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/17.png"
+            }
+          ]
+        },
+        {
+          "subTitle": "제13항 합성어",
+          "subItem": [
+            {
+              "type": "subject",
+              "value": "어휘 형태소가 다른 어휘 형태소와 어울릴 때 본디 소리와 다르게 나는 것은 다음과 같이 적는다."
+            },
+            {
+              "type": "subject",
+              "value": "‘ㄹ’로 끝나는 어휘 형태소가 다른 어휘 형태소와 어울릴적에, /ㄹ/ 소리가 나지 아니하는 낱말은 아니 나는 대로 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/18.png"
+            },
+            {
+              "type": "subject",
+              "value": "다른 어휘 형태소 뒤에서 어휘 형태소의 초성 /ㄱ, ㄷ, ㅂ, ㅈ/이 /ㅋ, ㅌ, ㅍ, ㅊ/으로 바뀌는 것은 소리 나는 대로 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/19.png"
+            },
+            {
+              "type": "subject",
+              "value": "모음으로 끝나는 어휘 형태소가 다른 어휘 형태소와 어울릴적에 /ㅂ/ 소리가 덧나는 것은 ‘ㅂ’을 앞 글자의 받침 글자로 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/20.png"
+            }
+          ]
+        },
+        {
+          "subTitle": "제14항 파생어",
+          "subItem": [
+            {
+              "type": "subject",
+              "value": "소리만 특이하게 변한 것은 소리 나는 대로 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/21.png"
+            }
+          ]
+        },
+        {
+          "subTitle": "제15항 체언과 조사",
+          "subItem": [
+            {
+              "type": "subject",
+              "value": "체언과 조사가 결합하여 꼭 바뀔 만한 이유가 없는데도 체언이나 조사의 소리가 바뀌는 것은 바뀌는 대로 적되, 체언과 조사를 구별하여 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/22.png"
+            },
+            {
+              "type": "subject",
+              "value": "다만, 다른 소리가 덧나기도 하고 덧나지 않기도 하는 것은 덧나지 않은 꼴로 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/23.png"
+            },
+            {
+              "type": "subject",
+              "value": "[붙임] 서술격 조사 ‘이-’ 앞에서 /ㅈ, ㅍ/ 등으로 나타나는 체언의 종성은 다른 조사 앞에서도 ‘ㅈ, ㅍ’ 등으로 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/24.png"
+            }
+          ]
+        },
+        {
+          "subTitle": "제16항 어간과 어미",
+          "subItem": [
+            {
+              "type": "subject",
+              "value": "어간과 어미가 결합하여 꼭 바뀔 만한 이유가 없는데도 어간이나 어미의 소리가 바뀌는 것은 바뀌는 대로 적되, 어간과 어미를 구별하여 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/25.png"
+            }
+          ]
+        },
+        {
+          "subTitle": "제17항 준 말",
+          "subItem": [
+            {
+              "type": "subject",
+              "value": "준말은 준 대로 적는다."
+            },
+            {
+              "type": "subject",
+              "value": "형태소 내부"
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/26.png"
+            },
+            {
+              "type": "subject",
+              "value": "어간과 어미의 결합"
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/27.png"
+            },
+            {
+              "type": "subject",
+              "value": "어간과 어미의 결합"
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/28.png"
+            },
+            {
+              "type": "subject",
+              "value": "조사와 조사의 결합"
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/29.png"
+            },
+            {
+              "type": "subject",
+              "value": "단어와 단어의 결합"
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/30.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "제4장 굳어진 표기",
+      "item": [
+        {
+          "subTitle": "제18항 /ㄷ/ 끝소리",
+          "subItem": [
+            {
+              "type": "subject",
+              "value": "본디부터 /ㄷ/이 아닌 음절의 끝소리는 ‘ㅅ’으로 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/31.png"
+            }
+          ]
+        },
+        {
+          "subTitle": "제19항 합성어",
+          "subItem": [
+            {
+              "type": "subject",
+              "value": "한자 형태소는 본음대로 적는다."
+            },
+            {
+              "type": "subject",
+              "value": "표준어의 /ㅢ/가 /ㅣ/로 소리 나는 것"
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/32.png"
+            },
+            {
+              "type": "subject",
+              "value": "표준어의 /ㅖ/가 /ㅔ/로 소리 나는 것"
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/33.png"
+            },
+            {
+              "type": "subject",
+              "value": "표준어의 /ㅚ/가 /ㅞ/로 소리 나는 것"
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/34.png"
+            }
+          ]
+        },
+        {
+          "subTitle": "제20항 합성어",
+          "subItem": [
+            {
+              "type": "subject",
+              "value": "고유어 어휘 형태소가 다른 어휘 형태소와 어울릴 때 본디 소리와 다르게 나는 것은 다음과 같이 적는다."
+            },
+            {
+              "type": "subject",
+              "value": "모음과 평음 사이에서 /ㄷ/ 소리가 덧나는 것은 ‘ㅅ’을 앞 글자의 받침 글자로 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/35.png"
+            },
+            {
+              "type": "subject",
+              "value": "[붙임] 자음뒤에서평음이된소리로바뀌는것은따로표기하지않는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/36.png"
+            },
+            {
+              "type": "subject",
+              "value": "모음과 /ㅣ/ 사이에서 /ㄴ/ 소리가 덧나는 것은 ‘ㅅ’을 앞글자의 받침 글자로 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/37.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "부 칙",
+      "item": [
+        {
+          "subItem": [
+            {
+              "type": "subject",
+              "value": "지역적으로 혹은 사회적으로 다른 제주어는 모두 인정하여 적는다."
+            },
+            {
+              "type": "image",
+              "value": "https://www.jeju.go.kr/pub/site/cul/images/sub/38.png"
+            },
+            {
+              "type": "subject",
+              "value": "이 표기법에서 명시적으로 정하지 않은 것은 한글 맞춤법에 따른다."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
