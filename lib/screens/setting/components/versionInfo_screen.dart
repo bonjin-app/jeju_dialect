@@ -58,7 +58,7 @@ class VersionInfoScreen extends StatelessWidget {
                   ),
                 ),
                 Text(
-                  '2020.06.22',
+                  '2021.03.24',
                   style: TextStyle(
                       fontSize: 16,
                       fontWeight: FontWeight.w900,
