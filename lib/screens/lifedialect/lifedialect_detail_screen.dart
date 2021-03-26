@@ -10,8 +10,6 @@ class LifeDialectDetailScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
 
-    print("build: $baseUrl${item.image1Url}");
-
     return Scaffold(
       appBar: AppBar(
         title: Text(
