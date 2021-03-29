@@ -52,15 +52,15 @@ class SettingScreen extends StatelessWidget {
                   SizedBox(
                     height: 16,
                   ),
-                  SettingItem(
-                    icon: Icons.language,
-                    text: '언어',
-                    onTab: (){
-                      Navigator.push(context, MaterialPageRoute(
-                          builder: (context) => LanguageSetting()
-                      ));
-                    },
-                  ),
+//                  SettingItem(
+//                    icon: Icons.language,
+//                    text: '언어',
+//                    onTab: (){
+//                      Navigator.push(context, MaterialPageRoute(
+//                          builder: (context) => LanguageSetting()
+//                      ));
+//                    },
+//                  ),
                   SettingItem(
                     icon: Icons.info_outline,
                     text: '버전정보',
